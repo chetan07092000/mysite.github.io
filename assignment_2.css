@@ -5,26 +5,18 @@ body
 
 body .inner_box
 {
-    margin: 10px;
-    background-color: rgb(219, 219, 219);
+    margin: 40px;
+    background: rgb(219, 219, 219);
     height: 732px;
     border-radius: 30px; 
 }
 
-.left_box
-{
-    height: 732px;
-    width: 300px;
-    /* border: 2px solid black;     */
-    float: left;
-    background-color: white;
-    border-radius: 30px; 
-}
+
 
 .search_bar
 {
-    margin-left: 30px;
-    margin-top: 25px;
+    margin-left: 20px;
+    margin-top: 20px;
     /* border: 2px solid black;     */
     border-radius: 20px;
     display: block;
@@ -37,7 +29,7 @@ body .inner_box
     /* border: 2px solid black;     */
 }
 
-.temperature
+.temp
 {
     margin-left: 30px;
     /* border: 2px solid black;     */
